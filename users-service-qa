@@ -1,0 +1,10 @@
+users-service.message="QA profile"
+users-service.minimum=100
+users-service.maximum=200
+server.port=8081
+spring.security.user.name=admin
+spring.security.user.password=admin
+spring.datasource.url=jdbc:h2:file:~/test;DB_CLOSE_ON_EXIT=FALSE;AUTO_SERVER=TRUE
+spring.datasource.username=sa
+spring.datasource.password=
+spring.datasource.driver-class-name=org.h2.Driver
